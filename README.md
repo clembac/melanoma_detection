@@ -3,8 +3,8 @@
 
 ## Context : 
 
-This project has been done for the Melanoma Detection - Pierre Fabre. 
-I've reached the 5th position with a simple VGG-16 and data preparation based 
+This project has been done for the Melanoma Detection - IA Pierre Fabre challenge (Offline & Online). 
+I've reached the 5th position with a VGG-16 and data preparation based 
 on demartologic rules ABCDE
 
 ## ABCDE rule
@@ -31,8 +31,13 @@ Melanoma lesions are often greater than 6 millimeters in diameter (approximately
 The evolution of your mole(s) has become the most important factor to consider when it comes to diagnosing a melanoma. Knowing what is normal for YOU could save your life. If a mole has gone through recent changes in color and/or size, bring it to the attention of a dermatologist immediately.
 
 
+## News : 
 
-### Publications : 
+* [Pierre Fabre News](https://www.pierre-fabre.com/fr/actualites/les-laboratoires-pierre-fabre-et-microsoft-lancent-le-premier-ia-sante-challenge-en)
+* [Offline Challenge](https://www.objetconnecte.com/ia-challenge-sante-pierre-fabre/)
+
+
+## Publications : 
 
 * [Vision based classification of skin cancer using deep learning, Simon Kalouche, Stanford](https://web.stanford.edu/~kalouche/docs/Vision_Based_Classification_of_Skin_Cancer_using_Deep_Learning_(Kalouche).pd)f
 * [Deep features to classify skin lessions](https://www.cs.sfu.ca/~hamarneh/ecopy/isbi2016b.pdf)
