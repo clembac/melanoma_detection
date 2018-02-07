@@ -3,11 +3,12 @@
 
 ## Context : 
 
-This project has been done for the Melanoma Detection - IA Pierre Fabre challenge (Offline & Online). 
-I've reached the 5th position with a VGG-16 and data preparation based 
-on demartologic rules ABCDE
+I've developed this project  for the Melanoma Detection - IA Pierre Fabre challenge (Offline & Online). 
+I've reached the 5th position with a VGG-16 and data preparation based on demartologic rules ABCDE
 
 ## ABCDE rule
+
+This rule is used by demartologist and medecine student to detect melanoma on skin mole.
 
 ### A - Asymmetrical Shape
 
@@ -39,7 +40,7 @@ The evolution of your mole(s) has become the most important factor to consider w
 
 ## Publications : 
 
-* [Vision based classification of skin cancer using deep learning, Simon Kalouche, Stanford](https://web.stanford.edu/~kalouche/docs/Vision_Based_Classification_of_Skin_Cancer_using_Deep_Learning_(Kalouche).pd)f
+* [Vision based classification of skin cancer using deep learning, Simon Kalouche, Stanford](https://web.stanford.edu/~kalouche/docs/Vision_Based_Classification_of_Skin_Cancer_using_Deep_Learning_(Kalouche).pd)
 * [Deep features to classify skin lessions](https://www.cs.sfu.ca/~hamarneh/ecopy/isbi2016b.pdf)
 * [Fully Convolutional Networks to Detect Clinical Dermoscopic Features ](https://pdfs.semanticscholar.org/8cc7/88c2e0f21a82433364cef1e44cbca5ca3c65.pdf)
 *[Knowledge Transfer for Melanoma Screening with Deep Learning](https://arxiv.org/pdf/1703.07479.pdf)
